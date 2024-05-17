@@ -1,6 +1,7 @@
 :root{
     --primary: #B14ACC;
     --dark: #171718;
+    --card: #2E2E2F;
 }
 *{
     background: var(--dark);
